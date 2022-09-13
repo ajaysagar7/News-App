@@ -4,7 +4,7 @@ import 'package:fluttertoast/fluttertoast.dart';
 import 'package:logger/logger.dart';
 import 'package:news_app/src/models/news_articles/news_articles.dart';
 import 'package:news_app/src/models/news_articles/news_response/news_response.dart';
-import 'package:news_app/src/services/api_constants.dart';
+import 'package:news_app/api_constants.dart';
 
 class ApiServices {
   BaseOptions baseOptions = BaseOptions(

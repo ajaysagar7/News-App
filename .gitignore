@@ -46,4 +46,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-/lib/src/services/api_constants.dart
+# /lib/src/services/api_constants.dart
+api_constants.dart

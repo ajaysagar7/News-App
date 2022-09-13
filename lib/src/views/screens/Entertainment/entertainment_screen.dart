@@ -7,7 +7,7 @@ import 'package:news_app/src/views/widgets/News%20Tile/news_tile.dart';
 import 'package:provider/provider.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 
-import '../../../services/api_constants.dart';
+import '../../../../api_constants.dart';
 import '../../../view_models/providers/technology_provider.dart';
 
 class EntertainmentScreen extends StatefulWidget {
